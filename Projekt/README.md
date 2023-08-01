@@ -1,5 +1,5 @@
 # Projekt zaliczeniowy - "barberShop"
-
+Kopia projektu zaliczeniowego. Oryginalna wersja znajduje się pod linkiem: `https://github.com/MarcinBereta/barberShop`
 ## Zawarte informacje
 * [Skład grupy](#skład-grupy)
 * [Temat](#temat)
