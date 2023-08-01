@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "company": {
+    "$oid": "0a60ccbc93d4291fedae1b4f"
+  },
+  "tripName": "Samba and Tango in Argentina",
+  "duration": 8,
+  "groupSize": 10,
+  "rating": 3.6,
+  "numberOfOpinions": 5,
+  "price": 1500,
+  "description": "Argentina is best country in the South America. World Cup winners love chilling there. You can see Messi, Maradona and other football stars.",
+  "startingDates": [
+    "2023-09-12",
+    "2023-10-28"
+  ],
+  "details": [
+    {
+      "place": "Buenos Aires",
+      "accommodation": "Hotel Rubi",
+      "day": 5,
+      "restaurants": [
+        {
+          "name": "El Gaucho",
+          "cuisine": "Argentinian"
+        },
+        {
+          "name": "La Cabrera",
+          "cuisine": "Steakhouse"
+        },
+        {
+          "name": "Don Julio",
+          "cuisine": "Argentinian"
+        }
+      ]
+    },
+    {
+      "place": "Rosario",
+      "accommodation": "Hotel Flea",
+      "day": 3,
+      "restaurants": [
+        {
+          "name": "La Buena Vida",
+          "cuisine": "Italian"
+        },
+        {
+          "name": "Pichincha",
+          "cuisine": "Argentinian"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "8a53a254a5e2623de8fc6d1c"
+    },
+    {
+      "$oid": "fc08865333b2a3d038343e40"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "company": {
+    "$oid": "24718c38a4c1e7bbd92e3f21"
+  },
+  "tripName": "Paris in the summer",
+  "duration": 7,
+  "groupSize": 20,
+  "rating": 4,
+  "numberOfOpinions": 6,
+  "price": 600,
+  "description": "Paris is best city in the world. You can see Eiffel Tower, Louvre and other famous places.",
+  "startingDates": [
+    "2023-06-11",
+    "2023-07-21"
+  ],
+  "details": [
+    {
+      "place": "Paris",
+      "accommodation": "Hotel Paris",
+      "day": 5,
+      "restaurants": [
+        {
+          "name": "Le Jules Verne",
+          "cuisine": "French"
+        },
+        {
+          "name": "Chez L'Ami Jean",
+          "cuisine": "Italian"
+        }
+      ]
+    },
+    {
+      "place": "Versailles",
+      "accommodation": "Hotel France",
+      "day": 1,
+      "restaurants": [
+        {
+          "name": "L'Orangerie",
+          "cuisine": "French"
+        }
+      ]
+    },
+    {
+      "place": "Disneyland Paris",
+      "accommodation": "Hotel Mickey",
+      "day": 1,
+      "restaurants": [
+        {
+          "name": "Auberge de Cendrillon",
+          "cuisine": "French"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "6abd2ba0cefae0c6043562cf"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "company": {
+    "$oid": "0a60ccbc93d4291fedae1b4f"
+  },
+  "tripName": "Lisbon and Porto",
+  "duration": 5,
+  "groupSize": 15,
+  "rating": 3.2,
+  "numberOfOpinions": 5,
+  "price": 1000,
+  "description": "Portugal is amazing country. You can see beautiful beaches, amazing cities and other famous places. You can also taste delicious food and wine.",
+  "startingDates": [
+    "2023-06-14",
+    "2023-08-18"
+  ],
+  "details": [
+    {
+      "place": "Porto",
+      "accommodation": "Hotel Pepel",
+      "day": 2,
+      "restaurants": [
+        {
+          "name": "Cafe Santiago",
+          "cuisine": "Portuguese"
+        },
+        {
+          "name": "Cantina 32",
+          "cuisine": "Portuguese"
+        }
+      ]
+    },
+    {
+      "place": "Lisbon",
+      "accommodation": "Hotel Benfica",
+      "day": 3,
+      "restaurants": [
+        {
+          "name": "Time Out Market",
+          "cuisine": "Various"
+        },
+        {
+          "name": "Pasteis de Belem",
+          "cuisine": "Portuguese"
+        }
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "$oid": "6abd2ba0cefae0c6043562cf"
+    },
+    {
+      "$oid": "e0968ed191c0b63ddbfd3089"
+    }
+  ]
+}]

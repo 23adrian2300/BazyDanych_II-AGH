@@ -1,0 +1,2502 @@
+------------------------------------------------------------------------------------------------------------------
+Firmy z oceną powyżej 3 gwiazdek posortowane po nazwie:
+Nazwa firmy:
+2J Tech
+Średnia ocena:
+5
+---
+Nazwa firmy:
+4 Real Intimate Apparel
+Średnia ocena:
+4.833333333333333
+---
+Nazwa firmy:
+5th and Wine
+Średnia ocena:
+3.99438202247191
+---
+Nazwa firmy:
+7-Eleven
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+7-Eleven
+Średnia ocena:
+5
+---
+Nazwa firmy:
+7-Eleven
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+99 Cent Only Stores
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+A Tailor
+Średnia ocena:
+5
+---
+Nazwa firmy:
+A Taste of Heaven Cafe and Bakery
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Adair Fern Conservatory of the Arts
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Adaven Children's Dentistry
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Ajo Al's Mexican Cafe
+Średnia ocena:
+3.328767123287671
+---
+Nazwa firmy:
+Aldo Leopold Nature Center
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Alfred A Thresher, DDS
+Średnia ocena:
+5
+---
+Nazwa firmy:
+All In Entertainment
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+All-American Bar & Grille
+Średnia ocena:
+3.050632911392405
+---
+Nazwa firmy:
+Amante Pizza and Pasta
+Średnia ocena:
+3.0526315789473686
+---
+Nazwa firmy:
+Amore Dogs
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Anderson Audiology
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Angelo's Barber Shop
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Arboleda Brechner
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Arcadia Foot & Ankle, PC
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+Argana
+Średnia ocena:
+4.85
+---
+Nazwa firmy:
+Arizona Airbrush Studio
+Średnia ocena:
+4.944444444444445
+---
+Nazwa firmy:
+Arizona Collision Specialists
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Arizona Exclusive Car Repair
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Arizona Music Academy
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Arizona Premier Dermatology
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Arizona School For the Arts
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Arrowhead Health Centers
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Artifact Lv
+Średnia ocena:
+4.285714285714286
+---
+Nazwa firmy:
+Ashoka
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+At One Yoga
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+Auto Tech Centers
+Średnia ocena:
+3.888888888888889
+---
+Nazwa firmy:
+Autumn Hair & Nail Spa
+Średnia ocena:
+3.8
+---
+Nazwa firmy:
+Avondale Scion
+Średnia ocena:
+5
+---
+Nazwa firmy:
+B & B Pools
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+B&B Ristorante
+Średnia ocena:
+3.4757894736842103
+---
+Nazwa firmy:
+BBVA Compass
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Baby Town
+Średnia ocena:
+4.181818181818182
+---
+Nazwa firmy:
+Balenciaga
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Bali Foot Spa
+Średnia ocena:
+3.953846153846154
+---
+Nazwa firmy:
+Ballpark Pizza and Subs
+Średnia ocena:
+4.428571428571429
+---
+Nazwa firmy:
+Banana Republic 
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Bartell Community Theatre
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Beans 'n Cream Coffee House
+Średnia ocena:
+4.448275862068965
+---
+Nazwa firmy:
+Behind the Mask
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+Benjarong Thai Restaurant
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Best In Show Dog Grooming
+Średnia ocena:
+4.5423728813559325
+---
+Nazwa firmy:
+Best Mattress
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Big Orange Bus
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Blueberry Deluxe
+Średnia ocena:
+4.125
+---
+Nazwa firmy:
+Boardhouse Serious Sandwiches
+Średnia ocena:
+3.2
+---
+Nazwa firmy:
+Boba & Donuts
+Średnia ocena:
+4.2
+---
+Nazwa firmy:
+Bobby D's Restaurant & Lounge
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Body English
+Średnia ocena:
+3.472340425531915
+---
+Nazwa firmy:
+Boe Boxing and Fitness
+Średnia ocena:
+4.111111111111111
+---
+Nazwa firmy:
+Bolt Bus
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Bongo Video
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Books
+Średnia ocena:
+4.1
+---
+Nazwa firmy:
+Bosa 1
+Średnia ocena:
+4.204545454545454
+---
+Nazwa firmy:
+Boston Pizza
+Średnia ocena:
+3.370967741935484
+---
+Nazwa firmy:
+Boujis Salon & Spa
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Boulder Falls Pet Resort
+Średnia ocena:
+4.25
+---
+Nazwa firmy:
+Brake Masters
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Brake Masters
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Brighton Collectibles
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+British Automotive Repair
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Bronze Buddha Glow
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Brosenbrus Cafe
+Średnia ocena:
+4.3
+---
+Nazwa firmy:
+Buddah's Nails
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Bumper To Bumper
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+Bungalow Bar & Grill
+Średnia ocena:
+3.4275862068965517
+---
+Nazwa firmy:
+CP Marine
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Cafe Rio
+Średnia ocena:
+3.7704918032786887
+---
+Nazwa firmy:
+Cafe Senses
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Canine & Feline Concierge
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Caps Sports Grill
+Średnia ocena:
+3.606060606060606
+---
+Nazwa firmy:
+Carlos O'Briens
+Średnia ocena:
+3.473684210526316
+---
+Nazwa firmy:
+Carrabba's Italian Grill
+Średnia ocena:
+3.3255813953488373
+---
+Nazwa firmy:
+Catfish Alley
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Cave Creek Armory
+Średnia ocena:
+4.714285714285714
+---
+Nazwa firmy:
+Chaophraya
+Średnia ocena:
+4.25
+---
+Nazwa firmy:
+CherryBerry
+Średnia ocena:
+3.6
+---
+Nazwa firmy:
+Chevron
+Średnia ocena:
+4.2
+---
+Nazwa firmy:
+Chevys Fresh Mex
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Chick Fil-A
+Średnia ocena:
+3.85
+---
+Nazwa firmy:
+Chilly Palmers
+Średnia ocena:
+3.4545454545454546
+---
+Nazwa firmy:
+Chin Chin Chinese Restaurant
+Średnia ocena:
+3.0232558139534884
+---
+Nazwa firmy:
+China One
+Średnia ocena:
+3.557142857142857
+---
+Nazwa firmy:
+Chipotle Mexican Grill
+Średnia ocena:
+3.7804878048780486
+---
+Nazwa firmy:
+Chipotle Mexican Grill
+Średnia ocena:
+4.122448979591836
+---
+Nazwa firmy:
+Chocolat by Frederic Robert
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Christopher W Fowler, DDS
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Ciao Pizzeria
+Średnia ocena:
+3.9166666666666665
+---
+Nazwa firmy:
+Circle K
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Clarion Suites at the Alliant Energy Center
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Clean Slate Arizona, LLC
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Cocina 10
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Coco's Family Restaurant
+Średnia ocena:
+3.9651162790697674
+---
+Nazwa firmy:
+Cold Stone Creamery
+Średnia ocena:
+3.5714285714285716
+---
+Nazwa firmy:
+Cold Stone Creamery
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Color Me Mine
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Colorful Nails
+Średnia ocena:
+3.4615384615384617
+---
+Nazwa firmy:
+Colosseum Training Center
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Comeley Nails
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Comfort Suites Univ. of Phoenix Stadium Area
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Companion Animal Hospital
+Średnia ocena:
+4.142857142857143
+---
+Nazwa firmy:
+Costco Wholesale
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Cotswold Outdoor
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Courtyard by Marriot - Madison East
+Średnia ocena:
+4.25
+---
+Nazwa firmy:
+Coyote Oaties
+Średnia ocena:
+4.894736842105263
+---
+Nazwa firmy:
+Cucina Olive Oil
+Średnia ocena:
+3.8333333333333335
+---
+Nazwa firmy:
+Culver's
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Curran David M MD
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Cvs Pharmacy
+Średnia ocena:
+4
+---
+Nazwa firmy:
+DSW Designer Shoe Warehouse
+Średnia ocena:
+4.275862068965517
+---
+Nazwa firmy:
+Dave's Auto Repair
+Średnia ocena:
+4.857142857142857
+---
+Nazwa firmy:
+David Habart - State Farm Insurance Agent
+Średnia ocena:
+5
+---
+Nazwa firmy:
+De La Rosa Pool Service
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Del Taco
+Średnia ocena:
+3.8333333333333335
+---
+Nazwa firmy:
+Deli 194
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Department of Motor Vehicles - DMV
+Średnia ocena:
+3.7375
+---
+Nazwa firmy:
+Desert Jade
+Średnia ocena:
+3.863157894736842
+---
+Nazwa firmy:
+Desert Strength
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Desert View Learning Center
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Diamondback Laundries
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Discount Tire
+Średnia ocena:
+4.1875
+---
+Nazwa firmy:
+Discount Tire Company
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Discount Tire Store - Phoenix
+Średnia ocena:
+4.529411764705882
+---
+Nazwa firmy:
+Dolce Salon & Spa
+Średnia ocena:
+3.933333333333333
+---
+Nazwa firmy:
+Dollar Tree
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Donut Hut
+Średnia ocena:
+4.516666666666667
+---
+Nazwa firmy:
+Dress Barn
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Drouthy Neebors
+Średnia ocena:
+3.2777777777777777
+---
+Nazwa firmy:
+Drugstore Café
+Średnia ocena:
+3.5161290322580645
+---
+Nazwa firmy:
+Drumbeat Indian Arts
+Średnia ocena:
+4.571428571428571
+---
+Nazwa firmy:
+Eastside Cutters
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Egan Electric, LLC
+Średnia ocena:
+5
+---
+Nazwa firmy:
+El Burrito Loco
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Elements Therapeutic Massage
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Embassy Suites Phoenix Scottsdale
+Średnia ocena:
+4.166666666666667
+---
+Nazwa firmy:
+Enterprise Rent-A-Car
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+Eribertos Mexican Food
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Erika Duggan, OD
+Średnia ocena:
+4.375
+---
+Nazwa firmy:
+Espresso
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Ethel M Chocolates
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Euro Asian Motorworks
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+European Massage Therapy School
+Średnia ocena:
+4.588235294117647
+---
+Nazwa firmy:
+Express Home Moving
+Średnia ocena:
+4.2
+---
+Nazwa firmy:
+Eye Opener Family Restaurant
+Średnia ocena:
+3.3448275862068964
+---
+Nazwa firmy:
+Fabrick
+Średnia ocena:
+3.5714285714285716
+---
+Nazwa firmy:
+Famous Dave's
+Średnia ocena:
+3.9626168224299065
+---
+Nazwa firmy:
+Famous Footwear Outlet
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Fantastic Scotland
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Farmfoods
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Fast Signs
+Średnia ocena:
+5
+---
+Nazwa firmy:
+FedEx Office Print & Ship Center
+Średnia ocena:
+3.4615384615384617
+---
+Nazwa firmy:
+FedEx Office Print & Ship Center
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Festival of Politics
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Filiberto's
+Średnia ocena:
+3.6
+---
+Nazwa firmy:
+Fins & Friends
+Średnia ocena:
+4.642857142857143
+---
+Nazwa firmy:
+Fitness 19
+Średnia ocena:
+3.76
+---
+Nazwa firmy:
+Five Guys Burgers and Fries
+Średnia ocena:
+3.652173913043478
+---
+Nazwa firmy:
+FlashBash PhotoBooths
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Fleming's Prime Steakhouse & Wine Bar
+Średnia ocena:
+4.097560975609756
+---
+Nazwa firmy:
+Four Kegs Sports Bar
+Średnia ocena:
+3.7991266375545854
+---
+Nazwa firmy:
+Frank Food Truck
+Średnia ocena:
+4.888888888888889
+---
+Nazwa firmy:
+Freddy Fox Rooter
+Średnia ocena:
+4.544303797468355
+---
+Nazwa firmy:
+GCS Carpet, Tile & Grout Cleaning
+Średnia ocena:
+4.785714285714286
+---
+Nazwa firmy:
+Gelish Nails by Trina
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Gigi's Café & BBQ
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+Gimme Gizmo
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Ginban Sushi
+Średnia ocena:
+4.092307692307692
+---
+Nazwa firmy:
+Ginseng Korean BBQ II
+Średnia ocena:
+3.4516129032258065
+---
+Nazwa firmy:
+Glamour Nails
+Średnia ocena:
+4.125
+---
+Nazwa firmy:
+Golfsmith
+Średnia ocena:
+3.2857142857142856
+---
+Nazwa firmy:
+Goodwill Industries of Southern Nevada Inc
+Średnia ocena:
+3.375
+---
+Nazwa firmy:
+Gordo's Mexican Food
+Średnia ocena:
+3.15
+---
+Nazwa firmy:
+Grand China
+Średnia ocena:
+3.4634146341463414
+---
+Nazwa firmy:
+Ground Control
+Średnia ocena:
+3.4057971014492754
+---
+Nazwa firmy:
+Guilty Pleasures
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Gymboree Play & Music
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+H&R Block
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Hahn's World of Surplus
+Średnia ocena:
+4.136363636363637
+---
+Nazwa firmy:
+Hair Nirvana
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Hakkasan Restaurant
+Średnia ocena:
+3.967741935483871
+---
+Nazwa firmy:
+Half Price Books
+Średnia ocena:
+4.093023255813954
+---
+Nazwa firmy:
+Hampton Inn & Suites Las Vegas South
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Hand In Hand Preschool & Early Development Center
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Handy Andy
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Harvest Buffet
+Średnia ocena:
+4.1
+---
+Nazwa firmy:
+Haunted Vegas Tours
+Średnia ocena:
+3.9285714285714284
+---
+Nazwa firmy:
+Haymarket Railway Station
+Średnia ocena:
+3.0526315789473686
+---
+Nazwa firmy:
+Herreras Mexican Food
+Średnia ocena:
+3.8
+---
+Nazwa firmy:
+Hmoob Oriental Market
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Hogs Head Music
+Średnia ocena:
+3.625
+---
+Nazwa firmy:
+Home Fabrics
+Średnia ocena:
+3.888888888888889
+---
+Nazwa firmy:
+Homewood Suites Phoenix
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Hot Dog Stop
+Średnia ocena:
+3.848101265822785
+---
+Nazwa firmy:
+Hottie World
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Hyatt Place - North Phoenix
+Średnia ocena:
+4.026315789473684
+---
+Nazwa firmy:
+IHOP
+Średnia ocena:
+3.111111111111111
+---
+Nazwa firmy:
+Illusions By Jan Rouven
+Średnia ocena:
+4.267605633802817
+---
+Nazwa firmy:
+Imperial Windows & Sunscreens
+Średnia ocena:
+5
+---
+Nazwa firmy:
+In The Company Of Thieves
+Średnia ocena:
+3.3846153846153846
+---
+Nazwa firmy:
+India Masala
+Średnia ocena:
+3.6704545454545454
+---
+Nazwa firmy:
+International House of Pancakes
+Średnia ocena:
+3.0833333333333335
+---
+Nazwa firmy:
+Island Sushi and Grill Express
+Średnia ocena:
+3.762589928057554
+---
+Nazwa firmy:
+J & M Chinese Cuisine Restaurant
+Średnia ocena:
+3.6785714285714284
+---
+Nazwa firmy:
+J Bella Loft
+Średnia ocena:
+4.4
+---
+Nazwa firmy:
+J Kinney Florist
+Średnia ocena:
+4.375
+---
+Nazwa firmy:
+JCPenney
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+JP Pancake
+Średnia ocena:
+3.7362637362637363
+---
+Nazwa firmy:
+Jack & Sons
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+Jack Astor's Bar & Grill
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Jack in the Box
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Jack-In-the Box Drive Thru
+Średnia ocena:
+3.2
+---
+Nazwa firmy:
+James B Miller, DMD
+Średnia ocena:
+4.375
+---
+Nazwa firmy:
+Jason's Deli
+Średnia ocena:
+3.5121951219512195
+---
+Nazwa firmy:
+Jay's Market On Flamingo
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Jia Jia Lok Chinese Restaurant
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Jimmy John's
+Średnia ocena:
+3.5833333333333335
+---
+Nazwa firmy:
+Jimmy's NYC Pizzeria
+Średnia ocena:
+3.625
+---
+Nazwa firmy:
+Jm Hair Gallery
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Joe's New York Pizza
+Średnia ocena:
+3.4516129032258065
+---
+Nazwa firmy:
+Joes Crab Shack
+Średnia ocena:
+3.230769230769231
+---
+Nazwa firmy:
+Joey's of Chicago
+Średnia ocena:
+3.8333333333333335
+---
+Nazwa firmy:
+John Rubalcaba Multimedia
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Journey Education
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Kabuki Japanese Restaurant
+Średnia ocena:
+3.3952569169960474
+---
+Nazwa firmy:
+Kactus Jock
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Karamba Nightclub
+Średnia ocena:
+3.090909090909091
+---
+Nazwa firmy:
+Karaoke Kid
+Średnia ocena:
+3.727272727272727
+---
+Nazwa firmy:
+Katz Joel, MD
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Kinesis Konnection
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Korean BBQ
+Średnia ocena:
+3.282051282051282
+---
+Nazwa firmy:
+Krachai Thai Kitchen
+Średnia ocena:
+4.2
+---
+Nazwa firmy:
+La Piazza
+Średnia ocena:
+3.774193548387097
+---
+Nazwa firmy:
+La Salcita
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Laredo's
+Średnia ocena:
+3.382978723404255
+---
+Nazwa firmy:
+Las Vegas Chinatown Plaza
+Średnia ocena:
+3.5384615384615383
+---
+Nazwa firmy:
+Las Vegas Fruits & Nuts
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+Las Vegas Web Development and Web Design
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Lash Out Addiction
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Lashes By Ash
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Le Bouquet
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Legends Sports Bar & Grill
+Średnia ocena:
+3.3846153846153846
+---
+Nazwa firmy:
+Legends Sports Bar & Restaurant
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Leith Walk
+Średnia ocena:
+3.7857142857142856
+---
+Nazwa firmy:
+Lesco Optique
+Średnia ocena:
+4.916666666666667
+---
+Nazwa firmy:
+Lighting Unlimited
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Little Caesars Pizza
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Lobbys Burgers
+Średnia ocena:
+4.2682926829268295
+---
+Nazwa firmy:
+Logan's Roadhouse
+Średnia ocena:
+3.6
+---
+Nazwa firmy:
+Long Life Fit and Dance
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+Los Jarochos
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+Lost Dog Wash Trail
+Średnia ocena:
+4.40625
+---
+Nazwa firmy:
+Lovato's Hair Styling Salon
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Lowe's Home Improvement
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Lucille's Smokehouse Bar-B-Que
+Średnia ocena:
+3.4693877551020407
+---
+Nazwa firmy:
+Luigi's
+Średnia ocena:
+3.358974358974359
+---
+Nazwa firmy:
+Luna Pizza
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Luna Pizza & Restaurant
+Średnia ocena:
+4.3076923076923075
+---
+Nazwa firmy:
+Luna Rossa
+Średnia ocena:
+3.5238095238095237
+---
+Nazwa firmy:
+M Catering by Michael's
+Średnia ocena:
+3.8
+---
+Nazwa firmy:
+MAC Cosmetics
+Średnia ocena:
+4.428571428571429
+---
+Nazwa firmy:
+MAC Cosmetics
+Średnia ocena:
+4
+---
+Nazwa firmy:
+MadCat
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Maestro's Pizzeria
+Średnia ocena:
+3.3636363636363638
+---
+Nazwa firmy:
+Magic Kabob
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Magic Mops LLC
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Majerle's Sports Grill
+Średnia ocena:
+3.3442622950819674
+---
+Nazwa firmy:
+Manawerx
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Marcellino Ristorante
+Średnia ocena:
+3.9076923076923076
+---
+Nazwa firmy:
+Margaret T. Hance Park
+Średnia ocena:
+3.625
+---
+Nazwa firmy:
+Marketon
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Mary Elaine's
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Master Tailor and Boutique Stefanovic
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Mental, starring Mind Reader Luke Jermay
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+Mesa Convention Center-Mesa Centennial Center
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Metro Pizza
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Michael's Pub
+Średnia ocena:
+3.8260869565217392
+---
+Nazwa firmy:
+Michaels
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Mido Sushi
+Średnia ocena:
+3.652173913043478
+---
+Nazwa firmy:
+Mill Avenue Travel
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Mint Indian Bistro
+Średnia ocena:
+4.135391923990499
+---
+Nazwa firmy:
+Miracle Mile Delicatessen
+Średnia ocena:
+3.3548387096774195
+---
+Nazwa firmy:
+Mission Hills Park
+Średnia ocena:
+4.857142857142857
+---
+Nazwa firmy:
+Modern Mommy Boutique
+Średnia ocena:
+3.933333333333333
+---
+Nazwa firmy:
+ModernLV
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Montelucia Resort & Spa
+Średnia ocena:
+4.005434782608695
+---
+Nazwa firmy:
+Movies On Central Inc
+Średnia ocena:
+4.625
+---
+Nazwa firmy:
+Mr. Pool and Mrs. Patio
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Mrs. Williams Bakery
+Średnia ocena:
+4.25
+---
+Nazwa firmy:
+My Sister's Attic
+Średnia ocena:
+3.142857142857143
+---
+Nazwa firmy:
+Nail Bar LLC
+Średnia ocena:
+4.111111111111111
+---
+Nazwa firmy:
+Napa Auto Parts
+Średnia ocena:
+5
+---
+Nazwa firmy:
+New Dimensions Automotive LLC
+Średnia ocena:
+5
+---
+Nazwa firmy:
+New York Chinese Restaurant
+Średnia ocena:
+3.6153846153846154
+---
+Nazwa firmy:
+Next Level Sounds Entertainment
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Noir Bar
+Średnia ocena:
+4.0588235294117645
+---
+Nazwa firmy:
+Nordstrom
+Średnia ocena:
+4
+---
+Nazwa firmy:
+OBGYN Specialists
+Średnia ocena:
+3.1818181818181817
+---
+Nazwa firmy:
+Office Depot
+Średnia ocena:
+4.125
+---
+Nazwa firmy:
+Ol Skool Kustomz
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Olive Garden Italian Restaurant
+Średnia ocena:
+3.1785714285714284
+---
+Nazwa firmy:
+Ollie Vaughn's
+Średnia ocena:
+4.606060606060606
+---
+Nazwa firmy:
+Optic Gallery
+Średnia ocena:
+4.818181818181818
+---
+Nazwa firmy:
+Optic Gallery Family Eye Care
+Średnia ocena:
+3.888888888888889
+---
+Nazwa firmy:
+Oral and Facial Surgeons of Arizona
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Ormelie Bar
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Outdoor Lifestyles by Par
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+P F Chang's China Bistro
+Średnia ocena:
+3.180722891566265
+---
+Nazwa firmy:
+PBB Custom Spray Tanning
+Średnia ocena:
+5
+---
+Nazwa firmy:
+PHX Burrito House
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+Pacific West Flooring
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Palacio Apartments
+Średnia ocena:
+3.6
+---
+Nazwa firmy:
+Panda Express
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Paradise Bakery - Dana Park
+Średnia ocena:
+3.4545454545454546
+---
+Nazwa firmy:
+Paragon Dance Center
+Średnia ocena:
+3.8181818181818183
+---
+Nazwa firmy:
+Passion Nails
+Średnia ocena:
+3.888888888888889
+---
+Nazwa firmy:
+Patty's Closet
+Średnia ocena:
+4.451612903225806
+---
+Nazwa firmy:
+Pentland Hills Regional Park
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Pepe's Tacos
+Średnia ocena:
+3.903225806451613
+---
+Nazwa firmy:
+Persian Rug Village
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Pet Club
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Petco
+Średnia ocena:
+4.75
+---
+Nazwa firmy:
+Phoenix Endodontic Group - PHX
+Średnia ocena:
+3.2857142857142856
+---
+Nazwa firmy:
+Picnic Company Restaurants
+Średnia ocena:
+4.428571428571429
+---
+Nazwa firmy:
+Pink Pepper Thai Cuisine
+Średnia ocena:
+3.6875
+---
+Nazwa firmy:
+Pinot's Palette - Paradise Valley
+Średnia ocena:
+4.913043478260869
+---
+Nazwa firmy:
+Pit Stop Auto Detailing & Automotive Storage
+Średnia ocena:
+4.3076923076923075
+---
+Nazwa firmy:
+Pizza Express
+Średnia ocena:
+3.2
+---
+Nazwa firmy:
+Pizza Express
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Pizzeria
+Średnia ocena:
+3.28
+---
+Nazwa firmy:
+Pizzeria da Enzo
+Średnia ocena:
+3.0526315789473686
+---
+Nazwa firmy:
+Planet Beach Contempo Spa
+Średnia ocena:
+3.2083333333333335
+---
+Nazwa firmy:
+Players Sports Bar
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+Pleasance Courtyard
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Popeyes Chicken And Biscuits
+Średnia ocena:
+4.2
+---
+Nazwa firmy:
+PostNet
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Presto Cafe
+Średnia ocena:
+4.527397260273973
+---
+Nazwa firmy:
+Prestonfield
+Średnia ocena:
+4.625
+---
+Nazwa firmy:
+Primarily Prime Rib
+Średnia ocena:
+3.642857142857143
+---
+Nazwa firmy:
+Pro Fitness
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Putsy's Chicken Steak Fingers
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Quest Diagnostics
+Średnia ocena:
+3.5555555555555554
+---
+Nazwa firmy:
+QuikTrip
+Średnia ocena:
+5
+---
+Nazwa firmy:
+QuikTrip
+Średnia ocena:
+3.125
+---
+Nazwa firmy:
+R Bar at the Camelback Inn
+Średnia ocena:
+4.323529411764706
+---
+Nazwa firmy:
+REACT Defense Systems/Krav Maga of Phoenix
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Radio Cafe
+Średnia ocena:
+3.7285714285714286
+---
+Nazwa firmy:
+Rancho Solano Preparatory School
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Rebecca Lynn Studio
+Średnia ocena:
+4.833333333333333
+---
+Nazwa firmy:
+Red Lobster
+Średnia ocena:
+3.423076923076923
+---
+Nazwa firmy:
+Red Lobster
+Średnia ocena:
+3.7142857142857144
+---
+Nazwa firmy:
+Red Robin Gourmet Burgers
+Średnia ocena:
+3.2758620689655173
+---
+Nazwa firmy:
+Red Rock Country Club
+Średnia ocena:
+4.529411764705882
+---
+Nazwa firmy:
+Reef Monsters
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Reflexology Relief
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Regis Salon
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Rescued Treasures Charity Boutique
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+Rhodes Ranch Golf Club
+Średnia ocena:
+3.6153846153846154
+---
+Nazwa firmy:
+Ricardo's
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Rise Up
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Roberto's Taco Shop
+Średnia ocena:
+3.3513513513513513
+---
+Nazwa firmy:
+Roberto's Taco Shop
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Rodi
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Rollo
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+Rose's Dog Grooming
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Rubin's Clearance Center
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Ruffians
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Ryman Stationary
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+SEABLUE by Michael Mina
+Średnia ocena:
+3.8726415094339623
+---
+Nazwa firmy:
+Sal's Pizza
+Średnia ocena:
+3.56
+---
+Nazwa firmy:
+Salon Sanctuary
+Średnia ocena:
+4.461538461538462
+---
+Nazwa firmy:
+Salt Creek Office Furniture
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Samurai Sam's Teriyaki Grill
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Sandwich Club
+Średnia ocena:
+4.083333333333333
+---
+Nazwa firmy:
+Savers
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Scottsdale Center for Women's Health
+Średnia ocena:
+3.230769230769231
+---
+Nazwa firmy:
+Shea Women's Care
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Sherry Goldstein's Yoga Sanctuary
+Średnia ocena:
+4.375
+---
+Nazwa firmy:
+Shiny Nails 3
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+Shop Devious
+Średnia ocena:
+4.454545454545454
+---
+Nazwa firmy:
+Showcase
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Sibley's West  The Chandler and Arizona Gift Shop
+Średnia ocena:
+4.625
+---
+Nazwa firmy:
+Sierra Bonita Grill
+Średnia ocena:
+4.0418604651162795
+---
+Nazwa firmy:
+Skm Entertainment
+Średnia ocena:
+4.428571428571429
+---
+Nazwa firmy:
+Smash Booth
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Sonic Drive In
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Sonny's Upholstery
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+Soul Foo Young
+Średnia ocena:
+4.857142857142857
+---
+Nazwa firmy:
+Southeast Regional Library
+Średnia ocena:
+4.636363636363637
+---
+Nazwa firmy:
+Souvia Tea
+Średnia ocena:
+4.5777777777777775
+---
+Nazwa firmy:
+SpeakGeek PCs
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Spook Hill Mountain Preserve
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Sportsman's Fine Wines & Spirits
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Sportsman's Fine Wines & Spirits
+Średnia ocena:
+4.3023255813953485
+---
+Nazwa firmy:
+Sportsman's Fine Wines & Spirits
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Spotted Donkey Cantina
+Średnia ocena:
+3.809090909090909
+---
+Nazwa firmy:
+St Andrews Restaurant
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+St Francis Xavier Catholic Church
+Średnia ocena:
+4.6
+---
+Nazwa firmy:
+Starbucks
+Średnia ocena:
+4.625
+---
+Nazwa firmy:
+State Street Brats
+Średnia ocena:
+3.2083333333333335
+---
+Nazwa firmy:
+Steve's Liquor & More
+Średnia ocena:
+3.8333333333333335
+---
+Nazwa firmy:
+Stir Krazy Mongolian Grill
+Średnia ocena:
+4.5344827586206895
+---
+Nazwa firmy:
+Stratosphere Tower Tour
+Średnia ocena:
+3.71875
+---
+Nazwa firmy:
+Streets of New York
+Średnia ocena:
+3.1
+---
+Nazwa firmy:
+Sun City Nails & Spa
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+Sun Stop Liquor
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Sunburst Shutters & Window Fashions
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Super Cleaners
+Średnia ocena:
+4.125
+---
+Nazwa firmy:
+Sur La Table
+Średnia ocena:
+4.0625
+---
+Nazwa firmy:
+Sushi Koma
+Średnia ocena:
+4.154340836012862
+---
+Nazwa firmy:
+Susie's Mexican Cafe
+Średnia ocena:
+3.292682926829268
+---
+Nazwa firmy:
+Sweet Daddy Cupcakes
+Średnia ocena:
+3.954022988505747
+---
+Nazwa firmy:
+T J Maxx
+Średnia ocena:
+3.6
+---
+Nazwa firmy:
+TGI Fridays
+Średnia ocena:
+3.142857142857143
+---
+Nazwa firmy:
+Taco Feliz Mexican Food
+Średnia ocena:
+3.875
+---
+Nazwa firmy:
+Tan Factory
+Średnia ocena:
+3.2857142857142856
+---
+Nazwa firmy:
+TapHouse Kitchen
+Średnia ocena:
+3.7954545454545454
+---
+Nazwa firmy:
+Taqueria El Pastorcito
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Taqueria Y Birrieria Jalisco
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Technique Restaurant
+Średnia ocena:
+3.903225806451613
+---
+Nazwa firmy:
+Tempe History Museum
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Tempe Trophy
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Thai Chef's Bistro
+Średnia ocena:
+3.9444444444444446
+---
+Nazwa firmy:
+Thai Food Corner
+Średnia ocena:
+3.7058823529411766
+---
+Nazwa firmy:
+The Arrogant Butcher
+Średnia ocena:
+3.828185328185328
+---
+Nazwa firmy:
+The Art of Shaving
+Średnia ocena:
+4.833333333333333
+---
+Nazwa firmy:
+The Beehive Inn
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+The Chapel at Planet Hollywood
+Średnia ocena:
+5
+---
+Nazwa firmy:
+The Cheesecake Factory
+Średnia ocena:
+3.4220183486238533
+---
+Nazwa firmy:
+The Coffee Bean & Tea Leaf
+Średnia ocena:
+4.076923076923077
+---
+Nazwa firmy:
+The Cook's Shop Pizzeria
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+The Cove Trattoria
+Średnia ocena:
+3.669642857142857
+---
+Nazwa firmy:
+The Doric
+Średnia ocena:
+3.25
+---
+Nazwa firmy:
+The Gelato Maker
+Średnia ocena:
+4.352941176470588
+---
+Nazwa firmy:
+The Home Depot
+Średnia ocena:
+3.7333333333333334
+---
+Nazwa firmy:
+The Home Depot
+Średnia ocena:
+4.857142857142857
+---
+Nazwa firmy:
+The Midori Japanese Fusion Sushi
+Średnia ocena:
+4.24
+---
+Nazwa firmy:
+The Pedal Bike Shop
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+The Perfect Scoop & Boba Tea
+Średnia ocena:
+3.855421686746988
+---
+Nazwa firmy:
+The Player's Lounge
+Średnia ocena:
+5
+---
+Nazwa firmy:
+The Rack
+Średnia ocena:
+4.285714285714286
+---
+Nazwa firmy:
+The Skin & Makeup Institute of Arizona
+Średnia ocena:
+5
+---
+Nazwa firmy:
+The Southsider
+Średnia ocena:
+3.0833333333333335
+---
+Nazwa firmy:
+The Sub Shop
+Średnia ocena:
+4.5
+---
+Nazwa firmy:
+The Turf
+Średnia ocena:
+3.386206896551724
+---
+Nazwa firmy:
+The Yankee Clipper Barber Shop
+Średnia ocena:
+4.333333333333333
+---
+Nazwa firmy:
+Thunderbird Executive Inn
+Średnia ocena:
+4.666666666666667
+---
+Nazwa firmy:
+Timbers - Cheyenne
+Średnia ocena:
+3.7333333333333334
+---
+Nazwa firmy:
+Times 3 Sports Grille
+Średnia ocena:
+3.7857142857142856
+---
+Nazwa firmy:
+Timpson
+Średnia ocena:
+4.25
+---
+Nazwa firmy:
+Tint AZ Mobile Window Tinting
+Średnia ocena:
+4.3125
+---
+Nazwa firmy:
+Tokyo Lobby Sushi and Grill
+Średnia ocena:
+4.091503267973856
+---
+Nazwa firmy:
+Touch of Thai
+Średnia ocena:
+3.761904761904762
+---
+Nazwa firmy:
+Toyoworks - Toyota, Lexus & Scion Auto Repair
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Travel Outfitters
+Średnia ocena:
+4.8
+---
+Nazwa firmy:
+Tribe Multisport
+Średnia ocena:
+4.615384615384615
+---
+Nazwa firmy:
+Trickshot Billiards And Hookah
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Trim Time Pet Grooming
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Tropical Smoothie Cafe
+Średnia ocena:
+3.1666666666666665
+---
+Nazwa firmy:
+Tropicana Animal Hospital
+Średnia ocena:
+3.5416666666666665
+---
+Nazwa firmy:
+True Dentistry
+Średnia ocena:
+4.857142857142857
+---
+Nazwa firmy:
+Two Hippies Beach House
+Średnia ocena:
+3.9
+---
+Nazwa firmy:
+Ultrazone Laser Tag
+Średnia ocena:
+4.090909090909091
+---
+Nazwa firmy:
+University Book Store
+Średnia ocena:
+3.1818181818181817
+---
+Nazwa firmy:
+Urban Outfitters
+Średnia ocena:
+3.857142857142857
+---
+Nazwa firmy:
+Veterans Auto
+Średnia ocena:
+4.833333333333333
+---
+Nazwa firmy:
+Veterinary Emergency & Critical Care
+Średnia ocena:
+3.6666666666666665
+---
+Nazwa firmy:
+Victoria
+Średnia ocena:
+4.409090909090909
+---
+Nazwa firmy:
+Vintner Grill
+Średnia ocena:
+4.006622516556291
+---
+Nazwa firmy:
+Walgreens
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Wally's Independent Honda & Acura Service Center
+Średnia ocena:
+4.631578947368421
+---
+Nazwa firmy:
+Warrior Dash
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Water and Ice
+Średnia ocena:
+3.4
+---
+Nazwa firmy:
+Waterloo Sogo Restaurant
+Średnia ocena:
+3.8
+---
+Nazwa firmy:
+Weeziana Gumbo & More
+Średnia ocena:
+4.3125
+---
+Nazwa firmy:
+Well Being In The Box
+Średnia ocena:
+4.25531914893617
+---
+Nazwa firmy:
+Wells Fargo Bank
+Średnia ocena:
+3.3333333333333335
+---
+Nazwa firmy:
+Wet Lace Custom Design Swimwear & Apparel
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Whiskey Sky
+Średnia ocena:
+3.888888888888889
+---
+Nazwa firmy:
+Wickenburg Country Club
+Średnia ocena:
+3.5
+---
+Nazwa firmy:
+Wildburger @ Wildfire Lanes
+Średnia ocena:
+3.7096774193548385
+---
+Nazwa firmy:
+Wildfire Golf Club At Desert Ridge
+Średnia ocena:
+4.142857142857143
+---
+Nazwa firmy:
+Willow Springs Dental
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Winchell's Pub & Grill
+Średnia ocena:
+3.75
+---
+Nazwa firmy:
+Wing King
+Średnia ocena:
+4.017543859649122
+---
+Nazwa firmy:
+Wo Fat
+Średnia ocena:
+3.617283950617284
+---
+Nazwa firmy:
+Wok & Wine
+Średnia ocena:
+4
+---
+Nazwa firmy:
+Yoga to the People
+Średnia ocena:
+4.9
+---
+Nazwa firmy:
+Yogurtini
+Średnia ocena:
+3.8125
+---
+Nazwa firmy:
+Yogurtland
+Średnia ocena:
+4.266666666666667
+---
+Nazwa firmy:
+Yogurtology
+Średnia ocena:
+4.151515151515151
+---
+Nazwa firmy:
+Zymages
+Średnia ocena:
+5
+---
+Nazwa firmy:
+Zynergy Wellness Salon and Boutique
+Średnia ocena:
+4.285714285714286
+---
+Nazwa firmy:
+iBrow & Skin Spa
+Średnia ocena:
+4.5
+---

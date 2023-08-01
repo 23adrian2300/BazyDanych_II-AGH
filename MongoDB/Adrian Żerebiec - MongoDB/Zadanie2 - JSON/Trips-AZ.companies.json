@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "0a60ccbc93d4291fedae1b4f"
+  },
+  "companyName": "Tripex",
+  "address": "Lonly Street 1, 00-021, Praga, Czech Republic",
+  "owner": {
+    "$oid": "41a74e9caa34de98feb0f486"
+  },
+  "trips": [
+    {
+      "$oid": "6c78fb8cf4afda39709c2955"
+    },
+    {
+      "$oid": "7a18fadcf4afda39709c295d"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "24718c38a4c1e7bbd92e3f21"
+  },
+  "companyName": "Sunshine",
+  "address": "Sunshine Street 1, 00-001, Berlin, Germany",
+  "owner": {
+    "$oid": "ad54c853d879393cb0a5eeed"
+  },
+  "trips": [
+    {
+      "$oid": "3c88db8cf2afda39709c295a"
+    }
+  ]
+}]

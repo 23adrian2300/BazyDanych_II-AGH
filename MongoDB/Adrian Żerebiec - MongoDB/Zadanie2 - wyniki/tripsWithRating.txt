@@ -1,0 +1,13 @@
+Trip Statistics:
+Number of Trips:
+2
+Number of Opinions:
+11
+Average Rating:
+3.8
+Average Price:
+1050
+Minimum Price:
+600
+Maximum Price:
+1500

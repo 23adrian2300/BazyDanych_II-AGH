@@ -1,0 +1,64 @@
+Miasto: Las Vegas, Liczba hoteli: 485
+Miasto: Phoenix, Liczba hoteli: 250
+Miasto: Edinburgh, Liczba hoteli: 161
+Miasto: Scottsdale, Liczba hoteli: 122
+Miasto: Madison, Liczba hoteli: 67
+Miasto: Tempe, Liczba hoteli: 57
+Miasto: Mesa, Liczba hoteli: 53
+Miasto: Henderson, Liczba hoteli: 41
+Miasto: Chandler, Liczba hoteli: 30
+Miasto: Glendale, Liczba hoteli: 20
+Miasto: North Las Vegas, Liczba hoteli: 12
+Miasto: Peoria, Liczba hoteli: 12
+Miasto: Surprise, Liczba hoteli: 10
+Miasto: Goodyear, Liczba hoteli: 9
+Miasto: Casa Grande, Liczba hoteli: 7
+Miasto: Middleton, Liczba hoteli: 7
+Miasto: Gila Bend, Liczba hoteli: 6
+Miasto: Wickenburg, Liczba hoteli: 5
+Miasto: Kitchener, Liczba hoteli: 5
+Miasto: Avondale, Liczba hoteli: 5
+Miasto: Waterloo, Liczba hoteli: 5
+Miasto: Fountain Hills, Liczba hoteli: 4
+Miasto: Gilbert, Liczba hoteli: 4
+Miasto: Paradise Valley, Liczba hoteli: 3
+Miasto: Tolleson, Liczba hoteli: 3
+Miasto: Cave Creek, Liczba hoteli: 3
+Miasto: Apache Junction, Liczba hoteli: 3
+Miasto: Florence, Liczba hoteli: 3
+Miasto: Lasswade, Liczba hoteli: 2
+Miasto: Carefree, Liczba hoteli: 2
+Miasto: Litchfield Park, Liczba hoteli: 2
+Miasto: Fitchburg, Liczba hoteli: 2
+Miasto: Queen Creek, Liczba hoteli: 2
+Miasto: Cambridge, Liczba hoteli: 2
+Miasto: South Queensferry, Liczba hoteli: 2
+Miasto: Clark County, Liczba hoteli: 2
+Miasto: Gold Canyon, Liczba hoteli: 2
+Miasto: Anthem, Liczba hoteli: 2
+Miasto: Goldfield, Liczba hoteli: 1
+Miasto: DeForest, Liczba hoteli: 1
+Miasto: Stanfield, Liczba hoteli: 1
+Miasto: Youngtown, Liczba hoteli: 1
+Miasto: Monona, Liczba hoteli: 1
+Miasto: N Las Vegas, Liczba hoteli: 1
+Miasto: Boulder City, Liczba hoteli: 1
+Miasto: Mc Farland, Liczba hoteli: 1
+Miasto: Tonto Basin, Liczba hoteli: 1
+Miasto: Verona, Liczba hoteli: 1
+Miasto: Buckeye, Liczba hoteli: 1
+Miasto: Enterprise, Liczba hoteli: 1
+Miasto: Tortilla Flat, Liczba hoteli: 1
+Miasto: Bonnyrigg, Liczba hoteli: 1
+Miasto: Coolidge, Liczba hoteli: 1
+Miasto: Fort McDowell, Liczba hoteli: 1
+Miasto: Laveen, Liczba hoteli: 1
+Miasto: Maricopa, Liczba hoteli: 1
+Miasto: Ratho, Liczba hoteli: 1
+Miasto: Sun City, Liczba hoteli: 1
+Miasto: Heidelberg, Liczba hoteli: 1
+Miasto: Woolwich, Liczba hoteli: 1
+Miasto: Deforest, Liczba hoteli: 1
+Miasto: Waddell, Liczba hoteli: 1
+Miasto: Inverkeithing, Liczba hoteli: 1
+Miasto: Dalkeith, Liczba hoteli: 1

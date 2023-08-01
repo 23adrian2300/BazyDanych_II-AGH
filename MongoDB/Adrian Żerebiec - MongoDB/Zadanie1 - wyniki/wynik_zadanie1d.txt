@@ -1,0 +1,6 @@
+Liczba recenzji oznaczonych jako "cool":
+346519
+Liczba recenzji oznaczonych jako "funny":
+269256
+Liczba recenzji oznaczonych jako "useful":
+549519

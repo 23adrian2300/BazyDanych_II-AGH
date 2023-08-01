@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "a190bf57d67909284562adeb"
+  },
+  "trip": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "opinion": "Not bad",
+  "rating": 3,
+  "user": {
+    "$oid": "a190bf57d67909284561adeb"
+  }
+},
+{
+  "_id": {
+    "$oid": "8bcda4c7866ee28f06133b8c"
+  },
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "opinion": "Not bad at all",
+  "rating": 4,
+  "user": {
+    "$oid": "5c8a1dfa2f8fb814b56fa181"
+  }
+},
+{
+  "_id": {
+    "$oid": "4a64417aca4ec4ba59a3e2eb"
+  },
+  "trip": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "opinion": "Time of my life",
+  "rating": 5,
+  "user": {
+    "$oid": "5c8a1dfa2f8fb814b56fa181"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c8a36b714eb5c17645c910f"
+  },
+  "trip": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "opinion": "Really boring trip, I don't recommend it to anyone",
+  "rating": 2,
+  "user": {
+    "$oid": "30651955b1df2b47b4f5fa5c"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c8a37b114eb5c17645c9111"
+  },
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "opinion": "Nice trip, but I've seen better ones",
+  "rating": 4,
+  "user": {
+    "$oid": "5c8a24402f8fb814b56fa190"
+  }
+},
+{
+  "_id": {
+    "$oid": "f6004b48f9b0734578d61b13"
+  },
+  "opinion": "Amazing trip, I recommend it to everyone",
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "rating": 5,
+  "user": {
+    "$oid": "11df1a504e6f3b241c117adc"
+  }
+},
+{
+  "_id": {
+    "$oid": "f6004b48f9b0734578d61b12"
+  },
+  "trip": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "opinion": "Terrible",
+  "rating": 1,
+  "user": {
+    "$oid": "11df1a504e6f3b241c117adc"
+  }
+},
+{
+  "_id": {
+    "$oid": "f6004b48f9b0734578d61b15"
+  },
+  "trip": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "opinion": "I really enjoyed this trip, everything was perfect",
+  "rating": 5,
+  "user": {
+    "$oid": "37a270d6088f2283a3f7df0e"
+  }
+},
+{
+  "_id": {
+    "$oid": "f6004b48f9b0734578d61b11"
+  },
+  "trip": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "opinion": "Awesome trip, I recommend it to everyone",
+  "rating": 5,
+  "user": {
+    "$oid": "37a270d6088f2283a3f7df0e"
+  }
+},
+{
+  "_id": {
+    "$oid": "9bbc56c9fa8faf83c2a1ae9e"
+  },
+  "trip": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "opinion": "Nothing special, I've seen better trips",
+  "rating": 4,
+  "user": {
+    "$oid": "532c022a8c71eae5e8d084c8"
+  }
+},
+{
+  "_id": {
+    "$oid": "9bbc56c9fa8faf83c2a1ae9f"
+  },
+  "trip": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "opinion": "Awesooooooome trip, I love it",
+  "rating": 5,
+  "user": {
+    "$oid": "b96f420ff60165da52ad9310"
+  }
+},
+{
+  "_id": {
+    "$oid": "9bcc56c9fa8faf83c2a1ae9e"
+  },
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "opinion": "So boring trip",
+  "rating": 2,
+  "user": {
+    "$oid": "b96f420ff60165da52ad9310"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c8a3b7c14eb5c17645c912f"
+  },
+  "trip": {
+    "$oid": "6c78fb8cf4afda39709c2955"
+  },
+  "opinion": "I think it was a good trip, but nothing special",
+  "rating": 3,
+  "user": {
+    "$oid": "3f752fb23a76d57721249a04"
+  }
+},
+{
+  "_id": {
+    "$oid": "5c8a3b9f14eb5c17645c9130"
+  },
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "opinion": "Woooow, I love it, best trip ever",
+  "rating": 5,
+  "user": {
+    "$oid": "57381942300d7dca5ecaa69e"
+  }
+},
+{
+  "_id": {
+    "$oid": "a33ed99b0d8a0e9fbdd3aa01"
+  },
+  "trip": {
+    "$oid": "3c88db8cf2afda39709c295a"
+  },
+  "opinion": "Really good, I spent a great time there",
+  "rating": 4,
+  "user": {
+    "$oid": "9e136739c439c0048dea81be"
+  }
+},
+{
+  "_id": {
+    "$oid": "ce128b4be3d48baed3849ba9"
+  },
+  "trip": {
+    "$oid": "7a18fadcf4afda39709c295d"
+  },
+  "opinion": "Waste of time",
+  "rating": 1,
+  "user": {
+    "$oid": "9e136739c439c0048dea81be"
+  }
+}]
